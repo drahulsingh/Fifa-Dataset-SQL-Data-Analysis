@@ -1,5 +1,7 @@
 # Fifa-Dataset-SQL-Data-Analysis
 
+![ViewCount](https://views.whatilearened.today/views/github/drahulsingh/Fifa-Dataset-SQL-Data-Analysis.svg)
+
 ## Overview
 
 This project involves analyzing a FIFA dataset using SQL. The goal is to extract meaningful insights from the dataset through various SQL queries.
